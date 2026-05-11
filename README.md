@@ -53,7 +53,7 @@ To get this project up and running on your local machine, follow these steps:
 <br>
 
 ## Contact
-If you have any questions or comments about this project,Please contact:
+If you have any questions or comments about this project, Please contact:
 Danford Amos - [Your Email](mailto:deeamos2002@gmail.com)
 
 <br>
