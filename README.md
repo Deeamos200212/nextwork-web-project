@@ -1,6 +1,7 @@
 # Java Web App Deployment with AWS CI/CD
 Java Web App set up on EC2 instance. Welcome to this project combining Java web app development and AWS CI/CD tools!
 
+<img width="451" height="297" alt="image" src="https://github.com/user-attachments/assets/472c8219-dd86-4256-934e-35758079d8c5" />
 <br>
 
 ## Table of Contents
@@ -52,7 +53,7 @@ To get this project up and running on your local machine, follow these steps:
 <br>
 
 ## Contact
-If you have any questions or comments about the NextWork Web Project, please contact:
+If you have any questions or comments about this project,Please contact:
 Danford Amos - [Your Email](mailto:deeamos2002@gmail.com)
 
 <br>
