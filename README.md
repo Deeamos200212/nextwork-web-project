@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about this project, Please contact:
-Danford Amos - [Your Email](mailto:deeamos2002@gmail.com)
+Danford Amos - (mailto:deeamos2002@gmail.com)
 
 <br>
 
